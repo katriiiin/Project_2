@@ -1,0 +1,6 @@
+C:\Users\пк\source\repos\Control_task_2\bin\Debug\Control_task_2.exe
+C:\Users\пк\source\repos\Control_task_2\bin\Debug\Control_task_2.pdb
+C:\Users\пк\source\repos\Control_task_2\obj\Debug\Control_task_2.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Control_task_2\obj\Debug\Control_task_2.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Control_task_2\obj\Debug\Control_task_2.exe
+C:\Users\пк\source\repos\Control_task_2\obj\Debug\Control_task_2.pdb
